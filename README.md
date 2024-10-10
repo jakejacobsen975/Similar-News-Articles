@@ -37,6 +37,6 @@ This project calculates the similarity between news articles from various source
 
 To run the entire project, download Hadoop and find its location then replace the lines in `phase_1/run.sh` and `phase_2/run.sh` that look like this `hadoop jar /home/jake/hadoop-3.4.0/share/hadoop/tools/lib/hadoop-streaming-3.4.0.jar \`
 
-then to run everything run the command in the main directory 
+then to run everything; run the following command in the main directory 
 ```./run.sh```
 
