@@ -40,3 +40,9 @@ To run the entire project, download Hadoop and find its location then replace th
 then to run everything; run the following command in the main directory 
 ```./run.sh```
 
+## Results 
+
+KSL VS CNBC  similarity:  0.2673117629271243
+KSL VS the verge  similarity:  0.24389965792474344
+the verge VS CNBC  similarity:  0.34105993065874196
+
